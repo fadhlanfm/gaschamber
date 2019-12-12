@@ -2,6 +2,10 @@
 body{
     background-image:url("./background.jpg") 
 }
+.header{
+    display: grid;
+    grid-template-columns: 94% 3% 3%;
+}
 
 .midea{
     display: grid;
