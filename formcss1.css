@@ -1,0 +1,62 @@
+form {
+    text-align: right;
+}
+
+
+h1 {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: azure;
+}
+
+h3 {
+    background-color: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1557682250-33bd709cbe85?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    background-size: 105%;
+}
+
+.fullname {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.kurir {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.phone {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.email {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.address {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.footer {
+    background-color: #000000;
+}
+
+.footer .copy {
+    text-align: center;
+    color: #31e90d;
+    font-size: 20px;
+}
