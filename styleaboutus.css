@@ -1,0 +1,53 @@
+
+body{
+    background-image:url("./background.jpg") 
+}
+
+.midea{
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.title{
+    position: relative;
+    text-align: center;
+    font-family: cursive;
+}
+
+.size80%{
+    width: 80%;
+    position: relative;
+}
+
+.opacity{
+    background-color: dimgrey;
+    width="70%"
+    position: relative;
+    
+}
+.tengah{
+    width: 80%;
+    position: relative;
+    left: 10%;
+    right: 10%
+}
+.imagemid{
+    object-position: center;
+}
+.paragrafaboutus{
+    text-align:justify;
+}
+.contactus{
+    font-size: 35;
+    font-family: cursive;
+}
+.map{
+    position: relative;
+    left: 20%;
+        right: 20%;
+}
