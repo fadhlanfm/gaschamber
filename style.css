@@ -1,0 +1,23 @@
+body{
+    margin: 25px;
+    background: url(background.jpg);
+}
+  .wrapper{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: large;
+}
+
+form{
+    position: ;
+}
